@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/classic/classic"
+  ],
+  "window": {
+    "navigationBarBackgroundColor":"ffffff",
+    "navigationBarTitleText":"demo",
+    "navigationBarTextStyle":"black",
+    "backgroundColor": "#ffffff"
+  }
+}
